@@ -1,6 +1,6 @@
 ## Summarize NTIA AI Accountability comments
 
-Create an abstract for around 100 sample comments (among 1,450).
+Create an abstract for around 150 sample comments (among 1,440).
 
 Go through portion of 
 [NTIA comment pages](https://www.regulations.gov/docket/NTIA-2023-0005/comments), 
